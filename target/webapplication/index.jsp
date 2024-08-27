@@ -4,7 +4,7 @@
 </title>
 </head>
 <body>
-<h1>Hai DEEPA, ur application deployed successfully!!!</h1>
+<h1>Hai DEEPA, your application deployed successfully!!!</h1>
 </body>
 </html>
 
